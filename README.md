@@ -10,13 +10,13 @@ Les fonctionnalités principales incluent :
 Le projet contient 3 codes :
 
 1. Interface PySide6
-siemens_pyside.py: Programme avec une interface graphique réalisée avec PySide6 pour interagir avec l'automate Siemens.
+- outputs_control_pyside6: Programme avec une interface graphique réalisée avec PySide6 pour interagir avec l'automate Siemens.
 
 2. Interface Tkinter
-siemens_tkinter.py: Programme avec une interface graphique réalisée avec Tkinter pour interagir avec l'automate Siemens.
+- outputs_control_tkinter.py: Programme avec une interface graphique réalisée avec Tkinter pour interagir avec l'automate Siemens.
 
 3. Lecture des informations CPU
-siemens_console.py: Programme pour lire les informations CPU de l'automate Siemens dans la console.
+- siemens_cpu_informations.py: Programme pour lire les informations CPU de l'automate Siemens dans la console.
 
 # Prérequis
 - Python 3.x
