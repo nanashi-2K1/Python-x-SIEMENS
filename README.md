@@ -23,6 +23,16 @@ Le projet contient 3 codes :
 - Bibliothèques Python : PySide6, tkinter, snap7
 - TIA PORTAL ou SIMATIC MANAGER 5.X
 
+# Création du projet sur TIA PORTAL V16
+- créer un nouveau projet
+- Faire la configuration matérielle ( Ajouter la CPU et le ou les modules de sorties)
+- Créer un bloc de données
+- Insérer les variables booléennes dans le bloc de donnée
+- Etablir la liaison en ligne et visualiser l'état des variables
+
+# Important
+Pour la communication avec les CPU S7 300, il est nécessaire d'ajouter un module de communication, d'où la CP 343-1 LEAN
+
 # Installation 
 pip install PySide6 snap7-python
 
