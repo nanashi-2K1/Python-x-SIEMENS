@@ -27,8 +27,8 @@ siemens_console.py: Programme pour lire les informations CPU de l'automate Sieme
 pip install PySide6 snap7-python
 
 # Liens documentation
-https://readthedocs.org/projects/python-snap7/downloads/pdf/latest/ 
-https://python-snap7.readthedocs.io/en/latest/
+- https://readthedocs.org/projects/python-snap7/downloads/pdf/latest/ 
+- https://python-snap7.readthedocs.io/en/latest/
 
 
 # Contribution
