@@ -9,7 +9,7 @@ class MainWindow(QMainWindow):
         super().__init__()
         self.setWindowTitle("Siemens x Python")
         self.setMinimumSize(800, 400)
-        self.db_number = 1
+        self.db_number = 1 #index of DB / index de la base de données 
         self.client = snap7.client.Client()
         self.connected = False
 
