@@ -8,7 +8,7 @@ root.title("Siemens x Python")
 root.wm_minsize(600, 600)
 
 # Default values for PLC connection
-db_number = 3 # database index / index de la base de données
+db_number = 1 # index of DB / index du bloc de données 
 start_offset = 0
 client = snap7.client.Client()
 
