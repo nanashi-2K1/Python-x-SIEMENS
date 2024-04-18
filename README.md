@@ -34,7 +34,7 @@ Le projet contient 3 codes :
 Pour la communication avec les CPU S7 300, il est nécessaire d'ajouter un module de communication, d'où la CP 343-1 LEAN
 
 # Installation 
-pip install PySide6 snap7-python
+$ pip install PySide6 snap7-python
 
 # Liens documentation
 - https://readthedocs.org/projects/python-snap7/downloads/pdf/latest/ 
